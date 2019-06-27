@@ -1,0 +1,5 @@
+xxxNULL,Red Dead Redemption 2,XBOX ONE,2018,0,1,49.99,https://uk.ign.com/games/red-dead-redemption-2,https://i.ytimg.com/vi/F63h3v9QV7w/maxresdefault.jpg
+xxxNULL,God of War,PS4,2018,0,1,31.99
+xxxNULL,Spider-Man,PS4,2018,0,0,29.99
+xxxNULL,Overwatch,PC,2016,0,1,24.00
+xxxNULL,Fallout 76,PC,2018,0,1,43.99
